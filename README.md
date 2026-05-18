@@ -22,6 +22,6 @@
 
 
 ## 📊 GitHub stats
-[![Akos16's Trophies](https://vercel.app)](https://github.com/Akos16)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akos16&show_icons=true&theme=tokyonight)
 
 
