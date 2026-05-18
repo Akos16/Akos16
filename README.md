@@ -22,5 +22,6 @@
 
 
 ## 📊 GitHub stats
-[![YourName's GitHub stats](https://vercel.app)](https://github.com/Akos16)
+[![Akos16's Trophies](https://vercel.app)](https://github.com/Akos16)
+
 
