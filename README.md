@@ -22,4 +22,4 @@
 
 
 ## 📊 GitHub statisztikák
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akos16&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AKOS16&show_icons=true&theme=tokyonight)
