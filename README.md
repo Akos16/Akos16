@@ -21,5 +21,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-## 📊 GitHub statisztikák
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akos16&show_icons=true&theme=tokyonight)
+## 📊 GitHub stats
+[![YourName's GitHub stats](https://vercel.app)](https://github.com/Akos16)
+
