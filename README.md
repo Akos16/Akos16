@@ -1,5 +1,5 @@
 # Hello👋
-#My name is Ákos Denkinger!
+My name is Ákos Denkinger!
 
 ---
 
