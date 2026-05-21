@@ -22,7 +22,6 @@ My name is Ákos Denkinger!
 
 ---
 
-## 📊 GitHub stats
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Akos16&show_icons=true&theme=tokyonight)
+
 
 
